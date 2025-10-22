@@ -17,3 +17,4 @@ Grab the [Latest Release](https://github.com/cmish00/CleosCuteSirens/releases/la
 ![Cover Image](/assets/images/cover3.png)
 ![Cover Image](/assets/images/cover4.png)
 ![Cover Image](/assets/images/cover5.png)
+![Cover Image](/assets/images/cover6.png)
