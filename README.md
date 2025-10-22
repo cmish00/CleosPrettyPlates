@@ -1,2 +1,19 @@
-# CleosPrettyPlates
-Lore Friendly California Plates for FiveM
+# Cleos Cute Sirens
+Custom siren pack for the popular FiveM script [Luxart Vehicle Control](https://github.com/TrevorBarns/luxart-vehicle-control) -- But Cute! &lt;3
+
+Grab the [Latest Release](https://github.com/cmish00/CleosCuteSirens/releases/latest)
+
+# CONTENTS:
+	VISUAL
+		MODERN ERA CALIFORNIA GENERAL PLATE	|	PLATE01
+		CALIFORNIA BLACK PLATE			|	PLATE02
+		CALIFORNIA CLASSIC PLATE		|	PLATE03
+		CALIFORNIA LATE TAHOE RESERVATION PLATE	|	PLATE04
+		CALIFORNIA EXEMPT PLATE			|	PLATE05
+		CALIFORNIA TEMPORARY REGISTRATION PAPER	|	YANKTON PLATE
+
+![Cover Image](/assets/images/cover.jpg)
+![Cover Image](/assets/images/cover2.jpg)
+![Cover Image](/assets/images/cover3.jpg)
+![Cover Image](/assets/images/cover4.jpg)
+![Cover Image](/assets/images/cover5.jpg)
