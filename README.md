@@ -12,9 +12,8 @@ Grab the [Latest Release](https://github.com/cmish00/CleosCuteSirens/releases/la
 		CALIFORNIA EXEMPT PLATE			|	PLATE05
 		CALIFORNIA TEMPORARY REGISTRATION PAPER	|	YANKTON PLATE
 
-![Cover Image](/assets/images/cover.png)
-![Cover Image](/assets/images/cover2.png)
-![Cover Image](/assets/images/cover3.png)
-![Cover Image](/assets/images/cover4.png)
-![Cover Image](/assets/images/cover5.png)
-![Cover Image](/assets/images/cover6.png)
+![Cover Image](/assets/images/cover.jpg)
+![Cover Image](/assets/images/cover2.jpg)
+![Cover Image](/assets/images/cover3.jpg)
+![Cover Image](/assets/images/cover4.jpg)
+![Cover Image](/assets/images/cover5.jpg)
