@@ -1,7 +1,6 @@
-# Cleos Cute Sirens
-Custom siren pack for the popular FiveM script [Luxart Vehicle Control](https://github.com/TrevorBarns/luxart-vehicle-control) -- But Cute! &lt;3
+# Cleos Cute Sirens &lt;3
 
-Grab the [Latest Release](https://github.com/cmish00/CleosCuteSirens/releases/latest)
+Grab the [Latest Release](https://github.com/cmish00/CleosPrettyPlates/releases/latest)
 
 # CONTENTS:
 	VISUAL
