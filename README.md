@@ -1,4 +1,4 @@
-# Cleos Cute Sirens &lt;3
+# Cleos Pretty Plates &lt;3
 
 Grab the [Latest Release](https://github.com/cmish00/CleosPrettyPlates/releases/latest)
 
